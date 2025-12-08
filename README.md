@@ -14,7 +14,7 @@ my favorite projects are probably:
 
 #
 
-i really [hackclub](https://hackclub.com/), its a really cool place with an awesome community! 
+i really like [hackclub](https://hackclub.com/), its a really cool place with an awesome community! 
 
 ive so far partaken in two of their major events, summer of making, and siege. and for prizes, ive won a steamdeck, 3d printer, and a framework 13 laptop!
 
