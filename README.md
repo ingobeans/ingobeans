@@ -1,6 +1,10 @@
 welcome to my github! 
 
-i'm a teen who likes to make silly little videogames and sometimes even boring tools ! i mostly use rust, its a really fun language!
+i'm a teen who likes to make silly little videogames and sometimes even boring tools !
+
+[my slack](https://hackclub.enterprise.slack.com/team/U098P9DLUGJ)
+
+i mostly use rust, its a really fun language!
 
 <img width="90" alt="image" src="https://github.com/user-attachments/assets/61db93c0-5ba1-43d2-a111-9990044c46bb" />
 
